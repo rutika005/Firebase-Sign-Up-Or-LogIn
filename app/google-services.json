@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275622860591",
+    "project_id": "fir-emailloginpassword",
+    "storage_bucket": "fir-emailloginpassword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275622860591:android:2011a39f10e6f12f8673da",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemailpasswordlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuFuM1SoKS7DCsiVZFv2ZpkR8Iuw0PTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
